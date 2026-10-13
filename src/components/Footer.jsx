@@ -56,7 +56,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-slate-800 px-5 py-5 text-center text-xs text-slate-500">
-        © {new Date().getFullYear()} Genshin.FanMerch Store. GLLM.
+        © {new Date().getFullYear()} Genshin.FanMerch Store. GLLM-JDGM-ASRL.
       </div>
     </footer>
   )
